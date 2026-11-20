@@ -1,0 +1,25 @@
+item_id,item_name,category,price,cost
+M001,Classic Milk Tea,milk tea,95,32.0
+M002,Wintermelon Milk Tea,Milk Tea,₱105.00,35.0
+M003,Okinawa Milk Tea,MilkTea,110,37.0
+M004,Taro Milk Tea,Milk Tea,₱110.00,38.0
+M005,Matcha Milk Tea,Milk Tea,₱120.00,45.0
+M006,Brown Sugar Milk Tea,MilkTea,125,44.0
+M007,Cheesecake Milk Tea,milk tea,130,48.0
+M008,Lemon Black Tea,fruit tea,90,25.0
+M009,Passion Fruit Tea,Fruit Tea,₱100.00,30.0
+M010,Mango Green Tea,Fruit Tea,₱105.00,33.0
+M011,Lychee Fruit Tea,Fruit Tea,105,34.0
+M012,Strawberry Fruit Tea,fruit tea,₱110.00,36.0
+M013,Iced Americano,Coffee,₱100.00,28.0
+M014,Iced Latte,coffee ,120,40.0
+M015,Spanish Latte,Coffee,₱135.00,46.0
+M016,Caramel Macchiato,Coffee,140,50.0
+M017,Fries,Snacks,80,30.0
+M018,Chicken Pops,Snacks,120,55.0
+M019,Takoyaki,Snack,110,
+M020,Cheese Sticks,Snacks,₱85.00,32.0
+M021,Pearls,Addons,15,4.0
+M022,Nata de Coco,Add-ons,15,5.0
+M023,Cream Cheese,add-on,₱25.00,9.0
+M024,Pudding,add-on,₱20.00,7.0

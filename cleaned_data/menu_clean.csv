@@ -1,0 +1,25 @@
+item_id,item_name,category,price,cost
+M001,Classic Milk Tea,MilkTea,95.0,32.0
+M002,Wintermelon Milk Tea,MilkTea,105.0,35.0
+M003,Okinawa Milk Tea,MilkTea,110.0,37.0
+M004,Taro Milk Tea,MilkTea,110.0,38.0
+M005,Matcha Milk Tea,MilkTea,120.0,45.0
+M006,Brown Sugar Milk Tea,MilkTea,125.0,44.0
+M007,Cheesecake Milk Tea,MilkTea,130.0,48.0
+M008,Lemon Black Tea,Fruit Tea,90.0,25.0
+M009,Passion Fruit Tea,Fruit Tea,100.0,30.0
+M010,Mango Green Tea,Fruit Tea,105.0,33.0
+M011,Lychee Fruit Tea,Fruit Tea,105.0,34.0
+M012,Strawberry Fruit Tea,Fruit Tea,110.0,36.0
+M013,Iced Americano,Coffee,100.0,28.0
+M014,Iced Latte,Coffee,120.0,40.0
+M015,Spanish Latte,Coffee,135.0,46.0
+M016,Caramel Macchiato,Coffee,140.0,50.0
+M017,Fries,Snacks,80.0,30.0
+M018,Chicken Pops,Snacks,120.0,55.0
+M019,Takoyaki,Snacks,110.0,0.0
+M020,Cheese Sticks,Snacks,85.0,32.0
+M021,Pearls,Add-Ons,15.0,4.0
+M022,Nata de Coco,Add-Ons,15.0,5.0
+M023,Cream Cheese,Add-Ons,25.0,9.0
+M024,Pudding,Add-Ons,20.0,7.0

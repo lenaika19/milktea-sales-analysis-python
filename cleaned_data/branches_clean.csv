@@ -1,0 +1,9 @@
+branch_id,branch_name,city,region,opened_date
+B01,SM North,Quezon City,NCR,2021-03-15
+B02,Robinsons Manila,Manila,NCR,2020-06-01
+B03,Glorietta,Makati,NCR,2022-11-20
+B04,Ayala Cebu,Cebu City,Central Visayas,2021-08-15
+B05,SM Davao,Davao City,Davao Region,2023-02-01
+B06,Trinoma,Quezon City,NCR,2020-09-10
+B07,Vista Mall Antipolo,Antipolo,CALABARZON,2024-04-05
+B08,SM Clark,Angeles,Central Luzon,2023-03-18
